@@ -3,11 +3,29 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)  
 
+<div>
+
+
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href=""><img src="https://img.shields.io/badge/蛇-python-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_51681760/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 访客数据：惨惨惨!!!
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 
-
+放只喵咪自我安慰
 ![image](https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/4.jpg)
