@@ -8,7 +8,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href=""><img src="https://img.shields.io/badge/蛇-python-blue" /></a>&emsp;
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/蛇-python-blueblue" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
