@@ -29,4 +29,7 @@
 
 
 # 放只喵咪自我安慰  
-![image](https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/4.jpg)
+<div align=center>
+  <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/2.jpg" />
+  <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/4.jpg"  />
+</div>
