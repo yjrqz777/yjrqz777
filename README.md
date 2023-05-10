@@ -18,7 +18,7 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  ![暗色](https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#gh-dark)
+  ![暗色](https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#gh-dark#pic_center)
 
 </div>
 
