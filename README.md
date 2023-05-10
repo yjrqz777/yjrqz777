@@ -1,7 +1,7 @@
 
-
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjrqz777#pic_center)  
+<div align=center>
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=yjrqz777">
+</div>
 
 <div>
 
@@ -23,8 +23,9 @@
 </div>
 
 # 访客数据：惨惨惨!!!
-
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+<div align=center>
+  <img alt="Visitor Count" src="https://profile-counter.glitch.me/Christmas/count.svg">
+</div>
 
 
 # 放只喵咪自我安慰  
