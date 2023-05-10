@@ -1,7 +1,7 @@
 
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjrqz777)  
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjrqz777#pic_center)  
 
 <div>
 
