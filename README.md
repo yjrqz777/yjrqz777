@@ -17,8 +17,8 @@
     <!-- visitor statistics logo 访客数统计徽标 -->
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  ![暗色](https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#gh-dark#pic_center)
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 
+  ![暗色](https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#gh-dark#pic_center) -->
 
 </div>
 
@@ -30,8 +30,8 @@
 
 # 放只喵咪自我安慰  
 <div align=center>
-  <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/2.jpg" />
-  <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/4.jpg"  />
+  <img src="https://article.biliimg.com/bfs/new_dyn/a9bab44bf14ee1a8f17a57a3e1a04a89700404004.png" />
+  <img src="https://article.biliimg.com/bfs/new_dyn/6241933ac834d1a8b9b09451c1853f52700404004.png"  />
 </div>
 
 
