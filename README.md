@@ -17,14 +17,10 @@
     <!-- visitor statistics logo 访客数统计徽标 -->
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 
-  ![暗色](https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#gh-dark#pic_center) -->
+  Snake Code Contribution Map 贪吃蛇代码贡献图 
+  ![暗色](  https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake-dark.svg#pic_center)
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
+
 
 </div>
 
@@ -39,4 +35,8 @@
   <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/4.jpg"  />
 </div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
