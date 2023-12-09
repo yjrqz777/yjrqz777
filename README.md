@@ -35,8 +35,3 @@
   <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/4.jpg"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
