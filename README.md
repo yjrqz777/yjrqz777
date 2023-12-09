@@ -30,8 +30,8 @@
 
 # 放只喵咪自我安慰  
 <div align=center>
-  <img src="![](https://article.biliimg.com/bfs/new_dyn/5a0ce926fc1825116c1ce71e1e679ea0700404004.jpg)" />
-  <img src="![](https://article.biliimg.com/bfs/new_dyn/2ac8bd23bf23229de0af5241d1618491700404004.png@1e_1c.webp)" />
+  <img src="https://article.biliimg.com/bfs/new_dyn/5a0ce926fc1825116c1ce71e1e679ea0700404004.jpg" />
+  <img src="https://article.biliimg.com/bfs/new_dyn/2ac8bd23bf23229de0af5241d1618491700404004.png@1e_1c.webp" />
   
   
 </div>
