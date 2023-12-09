@@ -17,12 +17,14 @@
     <!-- visitor statistics logo 访客数统计徽标 -->
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  ![暗色](https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#gh-dark#pic_center)
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 
+  ![暗色](https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#gh-dark#pic_center) -->
 
-  ![](https://github.com/yjrqz777/yjrqz777/blob/output/github-contribution-grid-snake.svg)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </div>
 
@@ -31,11 +33,10 @@
   <img alt="Visitor Count" src="https://profile-counter.glitch.me/Christmas/count.svg">
 </div>
 
-
 # 放只喵咪自我安慰  
 <div align=center>
-  <img src="./images/myn86.jpg" />
-  <img src="./images/myn71.jpg"  />
+  <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/2.jpg" />
+  <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/4.jpg"  />
 </div>
 
 
