@@ -20,11 +20,11 @@
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 
   ![暗色](https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#gh-dark#pic_center) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 
 </div>
 
