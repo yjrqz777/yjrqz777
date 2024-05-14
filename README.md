@@ -19,7 +19,7 @@
 
  
   ![暗色](  https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake-dark.svg#pic_center)
-
+  ![亮色](  https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#pic_center)
 
 
 </div>
