@@ -25,7 +25,7 @@
 
 <!-- # 访客数据：惨惨惨!!! -->
 <div align=center>
-  <img alt="Visitor Count" src="https://profile-counter.glitch.me/Christmas/count.svg">
+  <img alt="Visitor Count" src="https://profile-counter.deno.dev/yjrqz777/count.svg">
 </div>
 
 
