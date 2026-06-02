@@ -26,7 +26,6 @@
 <!-- # 访客数据：惨惨惨!!! -->
 <div align=center>
   <img alt="Visitor Count" src="https://profile-counter.deno.dev/yjrqz777/count.svg">
-    <img src="https://komarev.com/ghpvc/?username=yjrqz777&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 
