@@ -18,7 +18,7 @@
   </div>
 
  
-  ![暗色](  https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake-dark.svg#pic_center)
+    <!-- ![暗色](  https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake-dark.svg#pic_center) -->
   ![亮色](  https://raw.githubusercontent.com/yjrqz777/yjrqz777/output/github-contribution-grid-snake.svg#pic_center)
 
 
@@ -29,9 +29,4 @@
   <img alt="Visitor Count" src="https://profile-counter.glitch.me/Christmas/count.svg">
 </div>
 
-<!-- # 放只喵咪自我安慰   -->
-<div align=center>
-  <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/2.jpg" />
-  <!-- <img src="https://raw.githubusercontent.com/yjrqz777/picture/master/%E7%8C%AB%E7%BE%BD%E9%9B%AB/4.jpg"  /> -->
-</div>
 
