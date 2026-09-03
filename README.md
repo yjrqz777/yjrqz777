@@ -4,13 +4,13 @@
 
 <br>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tbody>
     <tr>
-      <td valign="top" align="center">
+      <td valign="top" align="center" style="border: none;">
         <img alt="stats" src="https://github-readme-stats-yjrqz777.vercel.app/api?username=yjrqz777&show_icons=true">
       </td>
-      <td valign="top" align="center">
+      <td valign="top" align="center" style="border: none;">
         <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" alt="C" />
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" alt="C++" />
         <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat" alt="C#" />
